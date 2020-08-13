@@ -1,0 +1,4 @@
+This code uses
+  1. HX711 library to interface the Semiconductor HX711 Analog-to-Digital Converter (ADC) for Weighing Scale.
+  2. ESP8266WiFi for wifi connection setup of ESP8266 wifi module.
+  3. Pubsubclient library to connect a client for publish/subscribe messaging with a server that supports MQTT. 
